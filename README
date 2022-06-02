@@ -1,0 +1,10 @@
+
+Commands:
+
+npm i express ejs socket.io
+npm i uuid
+npm i --save-dev nodemon
+npm run devStart
+
+npm i -g peer
+peerjs --port 3001
